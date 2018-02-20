@@ -57,6 +57,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/Olly/Desktop/projects/rn-test/android/app/build/intermediates/exploded-aar/rntest/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/Olly/Desktop/projects/rn-test/android/app/build/intermediates/pre-dexed/debug/rntest-react-native-vector-icons-unspecified_901131e41576dc64ff08b7b965bf2277e7ffadd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/Olly/Desktop/projects/rn-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
